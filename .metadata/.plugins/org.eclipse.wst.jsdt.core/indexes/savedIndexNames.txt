@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/voyager/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2300291821.index
+1775688005.index
+1074498279.index
+3712239096.index
+2633329579.index
+3612620063.index
