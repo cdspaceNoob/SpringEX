@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author voyager
+ *
+ */
+module JavaBasic {
+}
